@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center"> I'm Michael Ager Midenga</h1>
-<h3 align="center">A passionate full stack developer from Kenya</h3>
+<h3 align="center">A passionate front end Engineer from Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/agermidenga" target="blank"><img src="https://img.shields.io/twitter/follow/agermidenga?logo=twitter&style=for-the-badge" alt="agermidenga" /></a> </p>
 
