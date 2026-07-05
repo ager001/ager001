@@ -1,49 +1,102 @@
-## Hi there 👋
-<h1 align="center"> I'm Michael Ager Midenga</h1>
-<h3 align="center">A passionate front end Engineer from Kenya</h3>
+<h1 align="center">Hi, I'm Michael Ager Midenga 👋</h1>
+<h3 align="center">Professional Full-Stack Developer | Django & Next.js | 3+ Years of Experience</h3>
 
-<p align="left"> <a href="https://twitter.com/agermidenga" target="blank"><img src="https://img.shields.io/twitter/follow/agermidenga?logo=twitter&style=for-the-badge" alt="agermidenga" /></a> </p>
-
-- 🌱 I’m currently learning **Nodejs, expressjs, typescript, python, mysql, postgresql, Nextjs**
-
-- 👯 I’m looking to collaborate on **frontend projects, full stack projects**
-
-- 👨‍💻 All of my projects are available at [https://midengaofficial-portfolio.vercel.app/](https://midengaofficial-portfolio.vercel.app/)
-
-- 💬 Ask me about **React, Nodejs, Expressjs, Mongodb**
-
-- 📫 How to reach me **agermidenga@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/agermidenga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agermidenga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ager-midenga-0b903b1a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ager-midenga-0b903b1a1/" height="30" width="40" /></a>
-<a href="https://instagram.com/agermichael.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agermichael.m" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Django+%2B+Next.js;Building+SACC+%E2%80%94+Paperless+Schools+Initiative;TSC-Registered+Teacher+%2B+Software+Engineer;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://midengaofficial-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-2EA3F2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/agermidenga-0b903b1a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:agermidenga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ager001&show_icons=true&locale=en&layout=compact" alt="ager001" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ager001&show_icons=true&locale=en" alt="ager001" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ager001&" alt="ager001" /></p>
+I'm a **Full-Stack Developer with 3+ years of experience** building production-grade web applications, currently working as **Frontend Lead at Quantage Limited**. My core stack is **Django REST Framework** on the backend and **Next.js (TypeScript)** on the frontend, and I specialize in taking products from architecture to polished, production-ready UI.
 
+I bring a rare combination to every project: I'm also a **TSC-registered teacher (Reg. No. 1017188)** with a background in EdTech and curriculum design, which shapes how I build — with empathy for the end user and a strong focus on real-world usability, especially for education-sector clients.
 
-<!--
-**ager001/ager001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏗️ **Currently building:** [SACC](#) — a full-stack SaaS platform for CBC/CBE schools in Kenya, part of a "Paperless Schools Initiative," with a Django REST Framework backend and a Next.js/Tailwind frontend inspired by Coursera-style UX.
+- 💼 **Frontend Lead** at Quantage Limited
+- 🎓 Government Intern, Teachers Service Commission (TSC) | B.Ed (Arts) — English & Literature, University of Nairobi | Starting M.Ed in Educational Technology & Instructional Design (Sept 2026)
+- 🌍 Background in humanitarian education (Jesuit Refugee Service, Kakuma & Turkana)
+- 🎥 I create daily educational coding content, breaking down code and concepts for other developers
+- 📫 Reach me at **agermidenga@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Frontend**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</p>
+
+**Backend**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</p>
+
+**Tools & Platforms**
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
+</p>
+
+---
+
+### 📌 Featured Work
+
+- **SACC — School Academic & Curriculum Coordinator** — Full-stack SaaS platform for CBC/CBE-aligned schools in Kenya. Django REST Framework backend, Next.js/TypeScript/Tailwind frontend, CBC compliance widgets, and a roadmap for AI-powered features.
+- **Sori Lake View Resort** — Production website for a Lake Victoria hospitality client, built with Next.js, including custom SEO optimization and responsive layout engineering.
+- **Portfolio & Freelance Work** — Professional CVs, documents, and websites delivered for clients across hospitality and education sectors.
+
+📁 Explore all of my projects: **[midengaofficial-portfolio.vercel.app](https://midengaofficial-portfolio.vercel.app/)**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ager001&show_icons=true&theme=tokyonight&count_private=true" alt="ager001 stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ager001&layout=compact&theme=tokyonight" alt="ager001 top languages"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ager001&theme=tokyonight" alt="ager001 streak stats"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/agermidenga-0b903b1a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/agermidenga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://instagram.com/agermichael.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
+
+<p align="center"><i>Open to full-stack roles, freelance collaborations, and EdTech partnerships.</i></p>
